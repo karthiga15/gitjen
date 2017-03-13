@@ -38,7 +38,7 @@
                         <server>
                             <id>mytomcat</id>
                             <username>admin</username>
-                            <password>admin</password>
+                            <password>password</password>
                         </server>
                      </servers>
                         <path>/cacheImplement</path>    
